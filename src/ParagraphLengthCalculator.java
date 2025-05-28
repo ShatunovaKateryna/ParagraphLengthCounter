@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.Reader;
 import java.util.HashMap;
 import java.util.Map;
-//Shatunova Kateryna KND-12
+//Shatunova Kateryna KND-22
 public class ParagraphLengthCalculator {
     Map<Integer, Integer> calculate(Reader reader) throws IOException {
         Map<Integer, Integer> result = new HashMap<>();
